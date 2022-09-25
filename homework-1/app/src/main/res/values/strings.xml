@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homework-1</string>
+    <string name="to_list_button">Перейти к списку элементов интерфейса</string>
+    <string name="text_view">Это TextView</string>
+    <string name="edit_text">Это EditText</string>
+    <string name="button_text">OK</string>
+    <string name="checkbox_text">Давай, включи</string>
+    <string name="radio_btn_first_opt">Так</string>
+    <string name="radio_btn_second_opt">Или по-другому?</string>
+    <string name="switch_text">Не включать</string>
+    <string name="switch_on_text">Вкл</string>
+    <string name="switch_off_text">Выкл</string>
+    <string-array name="spinner_array">
+        <item>Выбери меня</item>
+        <item>Лучше меня</item>
+        <item>Нет, меня</item>
+        <item>Лучше меня никого нет</item>
+        <item>Ты знаешь, что делать</item>
+    </string-array>
+</resources>
